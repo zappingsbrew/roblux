@@ -11,7 +11,7 @@ Robux but it work
 - The weather works
 - Right click to center any skin
 
-You might also want to check out [Mondtholomewtholomew](https://github.com/Zappingsbrew/mondtholomewtholomew), it's "Mondtholomewc but it work"!
+You might also want to check out [Mondtholomewtholomew](https://github.com/Zappingsbrew/mondtholomewtholomew), it's "Mondtholomew but it work"!
 
 # Usage
 
