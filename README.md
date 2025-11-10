@@ -48,6 +48,6 @@ Formula=MeasureNetworkInText
 # Credits
 
 - Original [Robik](https://www.deviantart.com/apexxx-sensei/art/Robik-771914763) by [ApexXx-SenSei](https://www.deviantart.com/apexxx-sensei)
-- Reisir's fork [Robux](https://github.com/reisir/robux) by [Reisir](https://github.com/reisir)
+- [Robux](https://github.com/reisir/robux) by [Reisir](https://github.com/reisir)
 - [Weather.com parser](https://forum.rainmeter.net/viewtopic.php?f=118&t=34628#p171501) by [@jsmorley](https://github.com/jsmorley)
 - Montserrat Monospace font edit by silver on the Rainmeter discord
