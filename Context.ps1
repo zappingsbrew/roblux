@@ -1,5 +1,5 @@
 # Skin information
-$SkinName = "Robux"
+$SkinName = "Roblux"
 $ROOTCONFIG = $SkinName
 $editVariablesFile = "#@#variables.inc"
 

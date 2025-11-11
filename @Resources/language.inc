@@ -3,7 +3,7 @@ __CenterHorizontal=Center horizontally
 __CenterVertical=Center vertically
 __EditVariables=Edit variables
 __SkinMenu=Open skin menu...
-__RefreshGroup=Refresh Robux
+__RefreshGroup=Refresh Roblux
 
 ; ██     ██ ███████  █████  ████████ ██   ██ ███████ ██████  
 ; ██     ██ ██      ██   ██    ██    ██   ██ ██      ██   ██ 
