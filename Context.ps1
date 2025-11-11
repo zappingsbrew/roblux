@@ -63,7 +63,7 @@ function ToggleVariable {
     }
 }
 
-# Example context menu for reisir/Skycoder
+# Example context menu for zappingsbrew/Skycoder
 
 $menu = @(
     $current, $spacer,
