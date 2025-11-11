@@ -44,11 +44,11 @@ LanguageCode=Local
 ; Change the Clock formats
 ; Use "%H : %M" for 24h time and "%I : %M %p" for 12h time
 ; Read more: https://docs.rainmeter.net/manual/measures/time/#FormatCodes
-MeasureTimeFormat=%H:%M
+MeasureTimeFormat=%I : %M %p
 ; Day format. Refer to the previous link.
 MeasureDayFormat=%A
 ; Date format. Refer to the previous link.
-MeasureDateFormat=%d %B %Y
+MeasureDateFormat=%B %d %Y
 
 ; ███    ██ ███████ ████████ ██     ██  ██████  ██████  ██   ██ 
 ; ████   ██ ██         ██    ██     ██ ██    ██ ██   ██ ██  ██  
@@ -124,7 +124,7 @@ WeatherIconAccent=#WeatherAccentColor#
 
 ; Unit system to use when reporting temperature
 ; e (Imperial) | m (Metric) | h (Hybrid)
-WeatherUnits=m
+WeatherUnits=e
 ; Language to use when reporting conditions like cloudy, rain, snow etc.
 WeatherLanguageCode=en-US
 
