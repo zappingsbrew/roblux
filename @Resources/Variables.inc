@@ -124,7 +124,7 @@ WeatherIconAccent=#WeatherAccentColor#
 
 ; Unit system to use when reporting temperature
 ; e (Imperial) | m (Metric) | h (Hybrid)
-WeatherUnits=e
+WeatherUnits=m
 ; Language to use when reporting conditions like cloudy, rain, snow etc.
 WeatherLanguageCode=en-US
 
