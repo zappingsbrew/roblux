@@ -23,7 +23,7 @@ Right click any of the skins to center them or to open the settings file. When y
 
 # The "MeasureNetworkInDelay" incident.
 
-Found in the original code. If anyone can tell me why this exists in the original skin it would be much appreciated!
+Found in the original code. If anyone can tell me why this exists in the original skin it would be much appreaciated.
 
 ```ini
 ; Download.ini
